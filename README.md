@@ -1,3 +1,3 @@
-# CLIAPT: CLI Are People Too
+# CLIAPT: CLIs Are People Too
 
-(**C**ommand **L**ine **I**nterface) for modern Web Apps
+**C**ommand **L**ine **I**nterface for modern Web Apps
